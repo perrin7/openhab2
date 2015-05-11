@@ -16,7 +16,7 @@ This page is a community effort - please help filling the gaps and analysing pot
 | Comfo Air |  |  |  |
 | Config Admin |  |  |  |
 | CUL | X | X |  |
-| CUPS |  |  |  |
+| CUPS |  |  | 2.0 version available (renamed to IPP) |
 | Davis |  |  |  |
 | digitalSTROM |  |  |  |
 | DSC Alarm |  |  |  |
@@ -24,7 +24,7 @@ This page is a community effort - please help filling the gaps and analysing pot
 | EDS OWSever |  |  |  |
 | Energenie | X | X |  |
 | EnOcean | X | X |  |
-| Epson Projector |  |  |  |
+| Epson Projector | X | X |  |
 | Exec | X | X |   |
 | Freebox |  |  |  |
 | Freeswitch | X | X |  |
@@ -39,7 +39,7 @@ This page is a community effort - please help filling the gaps and analysing pot
 | Homematic / Homegear | X | X |  |
 | HTTP | X | X |  |
 | IEC 62056-21 |  |  |  |
-| IHC / ELKO |  |  |  |
+| IHC / ELKO | X | X |  |
 | Insteon Hub |  |  |  |
 | Insteon PLM |  | X |  |
 | IRtrans |  |  |  |
@@ -58,13 +58,13 @@ This page is a community effort - please help filling the gaps and analysing pot
 | Neohub |  |  |  |
 | Netatmo |  |  |  |
 | Network Health | X | X |  |
-| Nibe Heatpump |  |  |  |
+| Nibe Heatpump | X | X |  |
 | Nikobus |  |  |  |
 | Novelan/Luxtronic Heatpump |  |  |  |
 | NTP | X | X |  |
 | One-Wire |  |  |  |
 | Onkyo AV Receiver | X | X |  |
-| Open Energy Monitor |  |  |  |
+| Open Energy Monitor | X | X |  |
 | OpenPaths presence detection |  |  |  |
 | OpenSprinkler |  |  |  |
 | OSGi Configuration Admin |  |  |  |
@@ -74,16 +74,16 @@ This page is a community effort - please help filling the gaps and analysing pot
 | Pioneer-AVR-Binding | |  |  |
 | Plugwise |  |  |  | 
 | PLCBus |  |  |  | 
-| Pulseaudio |  |  |  |
-| RFXCOM |  |  |  |
-| Samsung TV |  |  |  |
+| Pulseaudio |  |  | 2.0 version available |
+| RFXCOM | X | X |  |
+| Samsung TV | X | X |  |
 | Serial |  |  |  | 
 | SNMP |  | X |  |
 | Squeezebox |  |  |  |
-| System Info |  |  |  |
+| System Info | X | X |  |
 | Somfy URTSI II |  |  |  |
 | Sonos |  |  | 2.0 version available |
-| Swegon ventilation |  |  |  |
+| Swegon ventilation | X | X |  |
 | TCP/UDP |  |  |  |
 | Tellstick |  |  |  |
 | TinkerForge |  |  |  |
